@@ -18,6 +18,3 @@ I'm a Frontend developer with 5 years of experience. Also, you can find my last 
 ![Static Badge](https://img.shields.io/badge/Redux-white?style=for-the-badge&logo=Redux&logoColor=%23764ABC&labelColor=%23eeeeee&color=%23eeeeee)
 ![Static Badge](https://img.shields.io/badge/SWR-black?style=for-the-badge&logo=swr&logoColor=black&labelColor=%23eeeeee&color=%23eeeeee)
 ![Static Badge](https://img.shields.io/badge/-black?style=for-the-badge&logo=styledcomponents&logoColor=black&label=styled-components&labelColor=%23DB7093&color=%23DB7093)
-
-
-![Visits](https://api.countapi.xyz/hit/github.comshcherbyna-d/visits)
