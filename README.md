@@ -1,12 +1,12 @@
 ### Hi! I'm Dmytro Shcherbyna  👋
 
-I'm a Frontend developer with 5 years of experience. Also, you can find my last company's GitHub account here <a href="https://github.com/DmytroShcherbyna" target="_blank"><img src="https://img.shields.io/badge/DmytroShcherbyna-back?logo=github&logoColor=white&label=GitHub&labelColor=black&color=black"><a/>
+I'm a Frontend developer with 5 years of experience. Also, you can find my last company's GitHub account here <a title="https://github.com/DmytroShcherbyna" target="_blank" href="https://github.com/DmytroShcherbyna"><img src="https://img.shields.io/badge/DmytroShcherbyna-back?logo=github&logoColor=white&label=GitHub&labelColor=black&color=black"><a/>
 
 
 📫 You can contact me by:
 
-<a href="mailto:shch.d.vol@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Dmytro%20Shcherbyna-%23c71610?logo=gmail&logoColor=white&color=%23c71610"><a/>
-<a href="https://linkedin.com/in/shcherbyna-d" target="_blank"><img src="https://img.shields.io/badge/Dmytro%20Shcherbyna-%230A66C2?logo=linkedin&logoColor=white&color=%230A66C2"><a/>
+<a title="shch.d.vol@gmail.com" href="mailto:shch.d.vol@gmail.com"><img src="https://img.shields.io/badge/Dmytro%20Shcherbyna-%23c71610?logo=gmail&logoColor=white&color=%23c71610"><a/>
+<a title="https://linkedin.com/in/shcherbyna-d" href="https://linkedin.com/in/shcherbyna-d" target="_blank"><img src="https://img.shields.io/badge/Dmytro%20Shcherbyna-%230A66C2?logo=linkedin&logoColor=white&color=%230A66C2"><a/>
 
 
 
